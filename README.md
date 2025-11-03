@@ -2,7 +2,7 @@
 
 Hi, I'm Kethan Acharya👋  
 🎓 MCA Student @ Manipal Institute of Technology  
-💻 Passionate Developer | Web & Android | Always Learning  and analysing  
+💻 Passionate Full-Stack Developer | Web & Android | Always Learning and analysing  
 🚀 Exploring new tech, building creative projects, and sharing my journey here.
 <!--
 **KethanAcharya/KethanAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
